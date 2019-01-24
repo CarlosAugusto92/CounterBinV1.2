@@ -1,7 +1,7 @@
 /*This is a binary counter, but the code has been improved 
  with less instructions and less time of compilation.
  This is for improve the way of the previous program was written.
- *Carlos Augusto Pérez Méndez
+ *Carlos Augusto PÃ©rez MÃ©ndez
  * Mechatronics Engineer.
  * mendezd.carlos@gmail.com
  * More info about the evaluation board in http://dignal.com
@@ -18,7 +18,7 @@ void main ()
     for (i = 0; i <= 15; i++)  //Counter from 0 to 15.
     {
         PORTD = i;             //The results are written in portD of microcontroller.
-        delay_ms(1000);        //Wait 500 miliseconds.
+        delay_ms(500);        //Wait 500 miliseconds.
     
     }
 }
