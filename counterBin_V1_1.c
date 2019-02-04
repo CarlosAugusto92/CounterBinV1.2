@@ -1,5 +1,5 @@
 /*This is a binary counter, but the code has been improved 
- with less instructions and less time of compilation.
+ with less instruction.
  This is for improve the way of the previous program was written.
  *Carlos Augusto Pérez Méndez
  * Mechatronics Engineer.
